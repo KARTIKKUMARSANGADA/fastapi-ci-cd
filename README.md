@@ -1,4 +1,5 @@
 # 🚀 FastAPI CI/CD Pipeline
+![CI](https://github.com/KARTIKKUMARSANGADA/fastapi-ci-cd/actions/workflows/ci-cd.yml/badge.svg)
 
 A simple **FastAPI application** integrated with a **CI/CD pipeline using GitHub Actions**.
 This project demonstrates how to automatically **test and validate code on every push**.
@@ -88,16 +89,6 @@ http://127.0.0.1:8000
 
 ```bash
 pytest
-```
-
----
-
-## 📸 CI Status Badge
-
-Add this to show build status:
-
-```md
-![CI](https://github.com/KARTIKKUMARSANGADA/fastapi-ci-cd/actions/workflows/ci-cd.yml/badge.svg)
 ```
 
 ---
