@@ -1,4 +1,3 @@
-📦 4. requirements.txt
 fastapi
 uvicorn
 pytest
