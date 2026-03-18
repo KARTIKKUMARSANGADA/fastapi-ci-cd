@@ -97,7 +97,7 @@ pytest
 Add this to show build status:
 
 ```md
-![CI](https://github.com/YOUR_USERNAME/fastapi-ci-cd/actions/workflows/ci-cd.yml/badge.svg)
+![CI](https://github.com/KARTIKKUMARSANGADA/fastapi-ci-cd/actions/workflows/ci-cd.yml/badge.svg)
 ```
 
 ---
